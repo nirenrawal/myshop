@@ -1,0 +1,11 @@
+db.sqlite3
+*.swp
+.DS_Store
+*.pyc
+__pycache__/
+.coverage
+
+env/
+/venv/
+venv/
+/env/
